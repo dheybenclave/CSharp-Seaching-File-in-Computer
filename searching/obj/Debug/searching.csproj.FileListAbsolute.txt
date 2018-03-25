@@ -1,0 +1,8 @@
+C:\Users\Claveria\documents\visual studio 2012\Projects\searching\searching\bin\Debug\searching.exe
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\searching\searching\bin\Debug\searching.exe.config
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\searching\searching\obj\Debug\searching.Form1.resources
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\searching\searching\obj\Debug\searching.Properties.Resources.resources
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\searching\searching\obj\Debug\searching.csproj.GenerateResource.Cache
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\searching\searching\obj\Debug\searching.exe
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\searching\searching\obj\Debug\searching.pdb
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\searching\searching\bin\Debug\searching.pdb
